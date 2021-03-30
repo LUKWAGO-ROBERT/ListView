@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="text1">TextView</string>
+    <string name="text2">Buffalo</string>
+    <string name="image">TODO</string>
+    <string name="info_name">Buffalo</string>
+    <string name="info_image">TODO</string>
+    <string name="splash">Zoo</string>
+    <string name="info_desc">TextView</string>
+    <string name="search">Search animal</string>
+    <string name="text3">A buffalo is a large, ox-like animal with horns and shaggy fur. In North America, a buffalo is another name for a bison.</string>
+</resources>
